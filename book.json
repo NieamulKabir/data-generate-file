@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "হাতে কলমে জাভাস্ক্রিপ্ট",
+        "autor": "জুনায়েদ আহমেদ",
+        "Category": "জাভাস্ক্রিপট প্রোগ্রামিং",
+        "price": 366,
+        "img": "https://i.ibb.co/fpSrLQG/image.png"
+    },
+    {
+        "id": 2,
+        "name": "ডেটা সায়েন্স এবং মেশিন লার্নিং-প্রথম খন্ড ",
+        "autor": "নূর-আল-আহাদ",
+        "Category": "কম্পিউটার প্রোগ্রামিং",
+        "price": 420,
+        "img": "https://i.ibb.co/Gnx3q4B/image.jpg"
+    },
+    {
+        "id": 3,
+        "name": "হাবলুদের জন্য প্রোগ্রামিং",
+        "autor": "ঝংকার মাহবুব",
+        "Category": "প্রোগ্রামিং বেসিক বই",
+        "price": 230,
+        "img": "https://i.ibb.co/z6z6Y94/image.jpg"
+    },
+    {
+        "id": 4,
+        "name": "রিচার্জ ইয়োর ডাউন ব্যাটারি ",
+        "autor": "ঝংকার মাহবুব",
+        "Category": "ছাত্রজীবন উন্নয়ন",
+        "price": 230,
+        "img": "https://i.ibb.co/R3Xcgrd/image.jpg"
+    },
+    {
+        "id": 5,
+        "name": "সহজ ভাষায় পাইথন ৩ ",
+        "autor": "মাকসুদুর রহমান মাটিন",
+        "Category": "পাইথন প্রোগ্রামিং",
+        "price": 430,
+        "img": "https://i.ibb.co/QKTpKD0/image.jpg"
+    },
+    {
+        "id": 6,
+        "name": "প্রোগ্রামিং কনটেস্ট ডেটা স্ট্রাকচার ও অ্যালগরিদম ",
+        "autor": "মো:মাহবুবুল হাসান",
+        "Category": "প্রোগ্রামিং বেসিক বই",
+        "price": 327,
+        "img": "https://i.ibb.co/s1drVst/image.png"
+    },
+    {
+        "id": 7,
+        "name": "গ্রাফ অ্যালগরিদম",
+        "autor": "শাফায়েত আশরাফ",
+        "Category": "কম্পিউটার প্রোগ্রামিং",
+        "price": 202,
+        "img": "https://i.ibb.co/3BQB5Hz/image.gif"
+    },
+    {
+        "id": 8,
+        "name": "শূন্য থেকে পাইথন মেশিন লার্নিং",
+        "autor": "রকিবুল হাসান",
+        "Category": "পাইথন প্রোগ্রামিং",
+        "price": 258,
+        "img": "https://i.ibb.co/fpSrLQG/image.png"
+    },
+    {
+        "id": 9,
+        "name": "অ্যাডভান্সড জাভা প্রোগ্রামিং",
+        "autor": "আ ন ম বজলুর রহমান",
+        "Category": "জাভা প্রোগ্রামিং",
+        "price": 320,
+        "img": "https://i.ibb.co/jRjdBpF/image.jpg"
+    }
+]

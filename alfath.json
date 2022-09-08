@@ -5,7 +5,7 @@
       "img": "https://nieamulkabir.github.io/data-generate-file/js.png",
       "sector": "Programming",
       "title": "Mastering Javascript",
-      "description": "Basic to Advance JavaScript For You",
+      "description": "Basic to Advance JavaScript and ES6 For You",
       "price": 3000
     },
     {
@@ -14,7 +14,7 @@
       "img": "https://nieamulkabir.github.io/data-generate-file/web-development.png",
       "sector": "Development",
       "title": "Full Stack Web Development",
-      "description": "Full stack developer course with MERN stack.HTML,CSS,CSS-framework,Js,React,Node,Express,MongoDb",
+      "description": "MERN stack(HTML,CSS,CSS-framework,Js,MongoDb,React,Node,Express)",
       "price": 7000
     },
     {
@@ -23,7 +23,7 @@
       "img": "https://nieamulkabir.github.io/data-generate-file/php.png",
       "sector": "Scripting language",
       "title": "Beginner To Advance PHP Course",
-      "description": "A popular general-purpose scripting language that is especially suited to web development.Fast , flexible and pragmatic.",
+      "description": "A popular general-purpose scripting language that is especially suited to web development.",
       "price": 4500
     },
     {
@@ -32,7 +32,7 @@
       "img": "https://nieamulkabir.github.io/data-generate-file/react.png",
       "sector": "Js Library",
       "title": "React.js",
-      "description": "A JavaScript library for building user interfaces.Build encapsulated components that manage their own state, then compose them to make complex UIs",
+      "description": "A JavaScript library for building user interfaces.Build encapsulated components that manage their own state",
       "price": 3500
     },
     {
@@ -41,7 +41,7 @@
       "img": "https://nieamulkabir.github.io/data-generate-file/tailwind.png",
       "sector": "CSS framework",
       "title": "Tailwind-CSS",
-      "description": "A utility-first CSS framework packed with classes.It  can be composed to build any design, directly in your markup.",
+      "description": "A utility-first CSS framework packed with classes.It  can be composed to build any design.",
       "price": 2000
     },
     {
@@ -59,7 +59,7 @@
       "img": "https://nieamulkabir.github.io/data-generate-file/flutter.png",
       "sector": "FrameWork",
       "title": "Flutter App Development",
-      "description": "Flutter transforms the app development process. Build, test, and deploy beautiful mobile, web, desktop, and embedded apps from a single codebase",
+      "description": "Flutter transforms the app development process. Build, test, and deploy beautiful mobile, web, desktop",
       "price": 4000
     },
     {
@@ -68,7 +68,7 @@
       "img": "https://nieamulkabir.github.io/data-generate-file/seo.png",
       "sector": "Search engine",
       "title": "SEO",
-      "description": "Search Engine Optimization Specialist.Ss the process of optimizing websites so that they rank well on search engines through organic searches",
+      "description": "Search Engine Optimization Specialist.The process of optimizing websites so that they rank well on search engines",
       "price": 3700
     },
     {
@@ -95,7 +95,7 @@
       "img": "https://nieamulkabir.github.io/data-generate-file/next.png",
       "sector": "React Framework",
       "title": "NEXT.JS",
-      "description": "Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering.",
+      "description": "Next.js gives you the best developer experience with all the features you need for production.",
       "price": 3500
     },
     {
@@ -122,7 +122,7 @@
       "img": "https://nieamulkabir.github.io/data-generate-file/react-native.png",
       "sector": "Mobile App",
       "title": "Learn React Native",
-      "description": "Create native apps for Android and iOS using React.React Native combines the best parts of native development with React,",
+      "description": "Create native apps for Android and iOS using React.React Native combines the best parts of native development",
       "price": 3000
     },
     {
